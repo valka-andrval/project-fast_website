@@ -17,6 +17,7 @@
   --basic: #fbfbfb;
   --gray: #c6cdd1;
 }
+
 body {
   font-family: 'Epilogue', sans-serif;
   color: var(--black);
